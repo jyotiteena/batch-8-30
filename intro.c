@@ -2,7 +2,6 @@
 
 int main()
 {
-
-    printf("hello world");
+    printf("second prg");
     return 0;
 }
